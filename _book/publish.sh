@@ -5,7 +5,7 @@ gitbook install && gitbook build
 git checkout master
 
 # pull the latest updates
-git pull origin master --rebase
+git pull Compendium master --rebase
 
 # copy the static site files into the current directory.
 cp -R _book/* .
@@ -21,7 +21,7 @@ git add .
 git commit -a -m "Update docs"
 
 # push to the origin
-git push origin master
+git push Compendium master
 
 # checkout to the master branch
 git checkout master
