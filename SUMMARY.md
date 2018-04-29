@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Electronics](electronics.md)
+* [Electronics](_book/chapters/electronics/electronics.md)
 
