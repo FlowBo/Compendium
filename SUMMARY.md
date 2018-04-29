@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Electronics](_book/chapters/electronics/electronics.md)
-* [Basics](_book/chapters/electronics/basics.md)
+* [Electronics-Introduction](electronics-1/readme.md)
+* [Electronics](electronics-1/electronics.md)
+* [Basics](electronics-1/basics.md)
 
