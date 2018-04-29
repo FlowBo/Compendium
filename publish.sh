@@ -14,6 +14,9 @@
 # git clean -fx node_modules
 # git clean -fx _book
 
+gitbook build
+
+
 # add all files
 git add .
 
